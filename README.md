@@ -10,7 +10,7 @@ This repository holds a translational medicine pipeline executing **Kaplan-Meier
 ## Target Visualization: Curve Metrics
 The plot below tracks cumulative survival percentages across the molecular cohorts, verified via 95% confidence intervals and an active patients-at-risk assessment grid.
 
-!(univariate_survival_plot.png)
+![Univariate Survival](univariate_survival_plot.png)
 
 ## Translational Application
 This script serves as a baseline data screening engine. It showcases how a researcher can rapidly audit incoming bone marrow trial registries to see if individual novel mutations correlate with significantly distinct patient survival windows before launching deeper multivariate hazard metrics.
